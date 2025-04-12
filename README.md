@@ -1,7 +1,7 @@
 
-# Olá, sou Deise Pimentel :blush:
+# 👩‍💻 Olá, sou Deise Pimentel :blush:
 
-Sou desenvolvedor apaixonada por tecnologia, aprendizado contínuo e sempre buscando novos desafios. 
+Sou desenvolvedora iniciante apaixonada por tecnologia, aprendizado contínuo e sempre buscando novos desafios. 
 Atualmente, estou aprendendo e criando projetos que envolvem linguagens:
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
@@ -11,12 +11,25 @@ Iniciando o aprendizado da Tecnologia:
 <br>
 <br>
 
+📚 **Objetivo:** Construir uma base sólida em tecnologia para criar soluções inovadoras que impactem positivamente a vida das pessoas.
+<br>
+
+✨ **Fatos sobre mim:**
+- Adoro resolver problemas e desafios de lógica!
+- Estou constantemente aprendendo e aplicando novos conhecimentos em projetos práticos.
+<br>
+<br>
+
+  ## 🌐 **Conecte-se comigo:**
+  
 - 📫 Como me contactar: [Aqui](www.linkedin.com/in/deise-pimentel) :relaxed:
 - 💬 Me pergunte sobre qualquer coisa: [@deisepimentelof_dev](https://www.instagram.com/deisepimentelof_dev/)
 <br>
-
 🌱 **Curiosidades:**
 - Além de programar, gosto de aprender sobre desenvolvimento pessoal e sou apaixonada por leitura e autoconhecimento.
+<br>
+
+  🚀 Junte-se a mim nessa jornada de aprendizado! 😊
 
 
 <!--
