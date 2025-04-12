@@ -13,9 +13,10 @@ Iniciando o aprendizado da Tecnologia:
 
 - 📫 Como me contactar: [Aqui](www.linkedin.com/in/deise-pimentel) :relaxed:
 - 💬 Me pergunte sobre qualquer coisa: [@deisepimentelof_dev](https://www.instagram.com/deisepimentelof_dev/)
+<br>
 
-
-
+🌱 **Curiosidades:**
+- Além de programar, gosto de aprender sobre desenvolvimento pessoal e sou apaixonada por leitura e autoconhecimento.
 
 
 <!--
