@@ -22,7 +22,7 @@ Iniciando o aprendizado da Tecnologia:
 
   ## 🌐 **Conecte-se comigo:**
   
-- 📫 Como me contactar: [Aqui](www.linkedin.com/in/deise-pimentel) :relaxed:
+- 📫 Como me contactar: [Aqui](https://www.linkedin.com/in/deisepimentel89/) :relaxed:
 - 💬 Me pergunte sobre qualquer coisa: [@deisepimentelof_dev](https://www.instagram.com/deisepimentelof_dev/)
 <br>
 <br>
