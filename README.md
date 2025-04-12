@@ -1,5 +1,5 @@
 
-# 👩‍💻 Olá, sou Deise Pimentel :blush:
+#  Olá, sou Deise Pimentel! 👩‍💻
 
 Sou desenvolvedora iniciante apaixonada por tecnologia, aprendizado contínuo e sempre buscando novos desafios. 
 Atualmente, estou aprendendo e criando projetos que envolvem linguagens:
