@@ -26,6 +26,7 @@ Iniciando o aprendizado da Tecnologia:
 - 💬 Me pergunte sobre qualquer coisa: [@deisepimentelof_dev](https://www.instagram.com/deisepimentelof_dev/)
 <br>
 <br>
+
 🌱 **Curiosidades:**
 
 - Além de programar, gosto de aprender sobre desenvolvimento pessoal e sou apaixonada por leitura e autoconhecimento.
