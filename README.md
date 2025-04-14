@@ -27,6 +27,8 @@ Iniciando o aprendizado da Tecnologia:
 <br>
 <br>
 
+![Deise Pimentel](https://github-readme-stats.vercel.app/api?username=deise-pimentel&show_icons=true&theme=radical)
+
 🌱 **Curiosidades:**
 
 - Além de programar, gosto de aprender sobre desenvolvimento pessoal e sou apaixonada por leitura e autoconhecimento.
